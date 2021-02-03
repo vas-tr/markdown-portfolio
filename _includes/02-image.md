@@ -1,1 +1,1 @@
-![python symbol](https://commons.wikimedia.org/wiki/File:Python.svg#/media/File:Python.svg)
+![python](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
